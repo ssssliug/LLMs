@@ -1,0 +1,7 @@
+Brand,Model,Price,Horsepower,Displacement
+Toyota,Camry,"$24,425",203,2.5L
+Honda,Accord,"$24,270",192,1.5L
+,,,,  # 空行用来分隔不同的表格
+Brand,Model,Safety Features,Body Colors,Audio System
+Toyota,Camry,"Lane Departure Alert, Pre-Collision System","Silver, Black, White, Gray",JBL Audio System
+Honda,Accord,"Honda Sensing, Collision Mitigation Braking System","White Pearl, Black, Silver, Deep Blue",450-Watt Premium Audio System
